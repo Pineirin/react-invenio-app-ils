@@ -2,6 +2,12 @@
 
 Version 1.0.0-alpha.55 (released 2021-10-08)
 
+- add links to the search guide
+- disable the bulk extend loans if no loans to extend
+- document details page overhaul
+
+Version 1.0.0-alpha.55 (released 2021-10-08)
+
 - fix purchase order assignment to document request
 
 Version 1.0.0-alpha.54 (released 2021-09-30)
